@@ -3,7 +3,8 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Lojain Hassan Hteabat</h1>
-<h3 align="center">A passionate Full-Stack .NET Developer from Jordan 🇯🇴</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast & Full-Stack .NET Developer from Jordan 🇯🇴</h3>
+<h3 align="center">🛡️ Passionate about Secure Coding | Penetration Testing | Application Security 🛡️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LojainHassan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,18 +12,31 @@
 
 ---
 
+## 🔐 Cybersecurity Focus
+
+🛡️ **Primary Interest:** Application Security & Secure Web Development  
+🎯 **Learning Path:** Penetration Testing, Ethical Hacking, and Network Security  
+🔍 **Security Tools:** Kali Linux, Burp Suite, Wireshark, OWASP ZAP, Metasploit  
+🔑 **Security Practices:** Secure coding, Authentication/Authorization, OWASP Top 10, Vulnerability Assessment  
+💻 **Security in .NET:** Implementing security best practices in ASP.NET Core applications  
+🎓 **Currently Studying:** Advanced cybersecurity concepts and security certifications
+
+---
+
 ## 👩‍💻 About Me
 
 👂 **My name is** Lojain Hassan Hteabat  
 👩 **Pronouns:** She/Her  
+🔐 **Main Focus:** Cybersecurity & Secure Application Development  
 🔭 **Currently working on:** ASP.NET Core, Blazor WebAssembly projects, and Elasticsearch integration  
-🌱 **Currently learning:** Cybersecurity and advanced .NET patterns  
-🤝 **Looking to collaborate on:** Web development projects, localization, and document management solutions  
-🤔 **Looking for help with:** Optimizing Elasticsearch queries and complex PDF generation in C#  
-💬 **Ask me about:** ASP.NET Core, Blazor, PuppeteerSharp, or Radzen Blazor UI  
+🌱 **Currently learning:** Cybersecurity, Penetration Testing, and advanced .NET security patterns  
+🛡️ **Security Goals:** Becoming a security researcher and ethical hacker  
+🤝 **Looking to collaborate on:** Security-focused applications, web development projects, and penetration testing  
+🤔 **Looking for help with:** Advanced security concepts, CTF challenges, and security certifications  
+💬 **Ask me about:** ASP.NET Core Security, Blazor, Cybersecurity basics, or Secure Coding Practices  
 📫 **How to reach me:** via email or GitHub  
-❤️ **I love:** Coding, learning new tech, and translating/optimizing software interfaces  
-⚡ **Fun fact:** I can turn complex Bootstrap or JS layouts into Blazor components without losing design!
+❤️ **I love:** Cybersecurity, coding secure applications, learning new hacking techniques, and bug hunting  
+⚡ **Fun fact:** I can turn complex Bootstrap or JS layouts into Blazor components without losing design & security!
 
 ---
 
@@ -32,6 +46,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -44,13 +59,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 
-### Databases & Tools
+### Databases, Security & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+</p>
+
+### Cybersecurity Tools & Interests
+<p align="left">
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="45" height="45"/>
+  🔐 Burp Suite | 🛡️ Wireshark | 🔍 OWASP ZAP | 🎯 Metasploit | 🔑 JWT Security
 </p>
 
 ---
