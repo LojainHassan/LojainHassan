@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Lojain Hassan لجين حسان &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Lojain_Hassanلجين_حسان &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Lojain Hassan Hteabat</h1>
