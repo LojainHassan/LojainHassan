@@ -1,114 +1,142 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Lojain_Hassanلجين_حسان%20&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</h1>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Lojain Hassan Hteabat</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast & Full-Stack .NET Developer from Jordan 🇯🇴</h3>
-<h3 align="center">🛡️ Passionate about Secure Coding | Penetration Testing | Application Security 🛡️</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lojain%20Hassan&fontSize=50&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=800\&lines=Cybersecurity+Enthusiast;Full-Stack+.NET+Developer;ASP.NET+Core+%7C+Blazor+Developer;Application+Security+Learner;Secure+Coding+Advocate)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=LojainHassan&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+```yaml
+name: Lojain Hassan Hteabat
+location: Jordan 🇯🇴
+role: Full-Stack .NET Developer
+focus:
+  - Application Security
+  - ASP.NET Core
+  - Blazor
+  - Secure Coding
+learning:
+  - Penetration Testing
+  - Ethical Hacking
+  - Network Security
+goal:
+  - Security Researcher
+  - Application Security Engineer
+```
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LojainHassan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://skillicons.dev/icons?i=cs,js,python,html,css,php"/>
 </p>
 
----
-
-## 🔐 Cybersecurity Focus
-
-🛡️ **Primary Interest:** Application Security & Secure Web Development  
-🎯 **Learning Path:** Penetration Testing, Ethical Hacking, and Network Security  
-🔍 **Security Tools:** Kali Linux, Burp Suite, Wireshark, OWASP ZAP, Metasploit  
-🔑 **Security Practices:** Secure coding, Authentication/Authorization, OWASP Top 10, Vulnerability Assessment  
-💻 **Security in .NET:** Implementing security best practices in ASP.NET Core applications  
-🎓 **Currently Studying:** Advanced cybersecurity concepts and security certifications
-
----
-
-## 👩‍💻 About Me
-
-👂 **My name is** Lojain Hassan Hteabat  
-👩 **Pronouns:** She/Her  
-🔐 **Main Focus:** Cybersecurity & Secure Application Development  
-🔭 **Currently working on:** ASP.NET Core, Blazor WebAssembly projects, and Elasticsearch integration  
-🌱 **Currently learning:** Cybersecurity, Penetration Testing, and advanced .NET security patterns  
-🛡️ **Security Goals:** Becoming a security researcher and ethical hacker  
-🤝 **Looking to collaborate on:** Security-focused applications, web development projects, and penetration testing  
-🤔 **Looking for help with:** Advanced security concepts, CTF challenges, and security certifications  
-💬 **Ask me about:** ASP.NET Core Security, Blazor, Cybersecurity basics, or Secure Coding Practices  
-📫 **How to reach me:** via email or GitHub  
-❤️ **I love:** Cybersecurity, coding secure applications, learning new hacking techniques, and bug hunting  
-⚡ **Fun fact:** I can turn complex Bootstrap or JS layouts into Blazor components without losing design & security!
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="blazor" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-</p>
-
-### Databases, Security & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-</p>
-
-### Cybersecurity Tools & Interests
-<p align="left">
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="45" height="45"/>
-  🔐 Burp Suite | 🛡️ Wireshark | 🔍 OWASP ZAP | 🎯 Metasploit | 🔑 JWT Security
-</p>
-
----
-
-## 📊 GitHub Stats
+## Backend & Frameworks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LojainHassan&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LojainHassan&theme=radical" alt="GitHub Streak" />
-</p>
+## Databases & Search
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LojainHassan&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+## Cybersecurity Arsenal
+
+<p align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge)
+
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 📈 GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/LojainHassan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LojainHassan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LojainHassan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LojainHassan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LojainHassan&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/LojainHassan/LojainHassan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🔐 Current Interests
+
+* Web Application Security
+* Secure Authentication Systems
+* OWASP Top 10
+* Vulnerability Assessment
+* API Security
+* Secure ASP.NET Core Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/LojainHassan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+
+### 🔒 Building secure applications for a safer digital future.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
