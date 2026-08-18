@@ -150,19 +150,6 @@ Enterprise collaboration platform built with:
 
 ---
 
-## 📚 National Library Integration
-
-REST API integration platform for secure data synchronization.
-
-Highlights:
-
-- Secure APIs
-- Authentication
-- Authorization
-- Enterprise Integration
-- Data Synchronization
-
----
 
 
 # 📊 Contribution Graph
@@ -206,9 +193,7 @@ Highlights:
 
 - Cisco Networking Basics
 - Cisco Cybersecurity Essentials
-- TryHackMe Labs
-- OWASP Top 10
-- Continuous Security Learning
+- Security + from Comptia
 
 ---
 
