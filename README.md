@@ -164,26 +164,6 @@ Highlights:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=LojainHassan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LojainHassan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LojainHassan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📊 Contribution Graph
 
@@ -191,25 +171,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LojainHassan
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LojainHassan&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/LojainHassan/LojainHassan/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 💼 Experience
 
